@@ -14,7 +14,7 @@
 		2FAA5B970B09C0610B2FC832 /* libPods-InflationCalc.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 9693895EB8B636586C725E0C /* libPods-InflationCalc.a */; };
 		49B8C45CCFC2841D6A6864DC /* libPods-InflationCalc-InflationCalcTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 6CB4C1516AD4F34DC03A1CBB /* libPods-InflationCalc-InflationCalcTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
-		BB8C3DBC26CDA37E00E2A6FA /* AppCenter-Config.plist in Resources */ = {isa = PBXBuildFile; fileRef = BB8C3DBB26CDA37E00E2A6FA /* AppCenter-Config.plist */; };
+		BB8C3E0126CE8C4100E2A6FA /* AppCenter-Config.plist in Resources */ = {isa = PBXBuildFile; fileRef = BB8C3E0026CE8C4100E2A6FA /* AppCenter-Config.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -41,7 +41,7 @@
 		6CB4C1516AD4F34DC03A1CBB /* libPods-InflationCalc-InflationCalcTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-InflationCalc-InflationCalcTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = InflationCalc/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9693895EB8B636586C725E0C /* libPods-InflationCalc.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-InflationCalc.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		BB8C3DBB26CDA37E00E2A6FA /* AppCenter-Config.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "AppCenter-Config.plist"; sourceTree = "<group>"; };
+		BB8C3E0026CE8C4100E2A6FA /* AppCenter-Config.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "AppCenter-Config.plist"; sourceTree = "<group>"; };
 		D50A23E246BDC72A6C81DCA4 /* Pods-InflationCalc-InflationCalcTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-InflationCalc-InflationCalcTests.release.xcconfig"; path = "Target Support Files/Pods-InflationCalc-InflationCalcTests/Pods-InflationCalc-InflationCalcTests.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		F7A61A038521775804ACE5BE /* Pods-InflationCalc.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-InflationCalc.release.xcconfig"; path = "Target Support Files/Pods-InflationCalc/Pods-InflationCalc.release.xcconfig"; sourceTree = "<group>"; };
@@ -129,7 +129,7 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
-				BB8C3DBB26CDA37E00E2A6FA /* AppCenter-Config.plist */,
+				BB8C3E0026CE8C4100E2A6FA /* AppCenter-Config.plist */,
 				13B07FAE1A68108700A75B9A /* InflationCalc */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				00E356EF1AD99517003FC87E /* InflationCalcTests */,
@@ -247,7 +247,7 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
-				BB8C3DBC26CDA37E00E2A6FA /* AppCenter-Config.plist in Resources */,
+				BB8C3E0126CE8C4100E2A6FA /* AppCenter-Config.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
